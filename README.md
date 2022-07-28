@@ -6,7 +6,7 @@
 
 <h3 align="center">Hobbies</h3>
 
-<p align="center">Gosto de assistir séries e desenhar</p>
+<p align="center">Gosto de conhecer coisas novas e viajar</p>
 
 <h3 align="center">Formação</h3>
 <p align="center"> Cursando Engenharia da computação </p> 
@@ -16,14 +16,16 @@
 
 <p align="center">- HTML </p>
 <p align="center">- CSS </p>
+<p align="center">- JavaScript </p>
 
 <h3 align="center"> Experiências profissionais </h3>
 
 <p align="center">Designer Gráfico</p>
+<p align="center">Web Designer</p>
 
 <h3 align="center"> O que estou aprendendo no momento</h3>
 
-<p align="center"> Atualmente estou me aprofundando em HTML e CSS</p>
+<p align="center"> Atualmente estou me aprofundando em Typescript e Node</p>
 
 <div align="center">
   <a href="https://www.w3.org/html/" target="_blank"> 
