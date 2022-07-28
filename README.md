@@ -21,7 +21,7 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
   - Html
   - Css
 
-## Alguns fatos sobre mim 👨🏻‍💻
+## Alguns fatos sobre mim:
 
 - Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
 
