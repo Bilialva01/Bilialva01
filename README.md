@@ -28,11 +28,12 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 
 ## Alguns fatos sobre mim:
 
-- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
-
-- Estou cursando Engenharia da Computação. 💻
-
-<hr>
+<ul>
+   <li>Adoro conhecer coisas novas, trabalhar com projetos que desafiam a criatividade e obter novas experiências.<li>
+   <li>Estou cursando Engenharia da Computação. 💻<li>
+   <li>Almejo trabalhar fora do Brasil, para melhorar meu Inglês e me desenvolver como profissional.<li>
+ </ul>
+ <hr>
 
 ---
 <p align="center">
