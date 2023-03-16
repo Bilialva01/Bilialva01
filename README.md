@@ -29,13 +29,12 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 ## Alguns fatos sobre mim:
 
 <ul>
-   <li>Adoro conhecer coisas novas, trabalhar com projetos que desafiam a criatividade e obter novas experiências.<li>
-   <li>Estou cursando Engenharia da Computação. 💻<li>
-   <li>Almejo trabalhar fora do Brasil, para melhorar meu Inglês e me desenvolver como profissional.<li>
+   <li>Adoro conhecer coisas novas, trabalhar com projetos que desafiam a criatividade e obter novas experiências.
+   <li>Estou cursando Engenharia da Computação. 💻
+   <li>Almejo trabalhar fora do Brasil, para melhorar meu Inglês e me desenvolver como profissional.
  </ul>
  <hr>
-
----
+ ---
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
